@@ -1,7 +1,3 @@
-
-###> symfony/framework-bundle ###
+/logs
+/.data
 .env
-/public/bundles/
-/var/
-/vendor/
-###< symfony/framework-bundle ###
