@@ -2,7 +2,7 @@
 FROM php:7.1-fpm
 ARG TIMEZONE
 
-MAINTAINER Christos Asprou <casprou@xm.com>
+MAINTAINER Christos Asprou <christos.asprou@gmail.com>
 
 RUN apt-get update && apt-get install -y \
     openssl \
