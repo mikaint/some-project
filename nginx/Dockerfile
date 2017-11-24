@@ -1,6 +1,6 @@
 FROM debian:jessie
 
-MAINTAINER Christos Asprou <casprou@xm.com>
+MAINTAINER Christos Asprou <christos.asprou@gmail.com>
 
 RUN apt-get update && apt-get install -y \
     nginx
