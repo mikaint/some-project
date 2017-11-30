@@ -1,8 +1,4 @@
 /logs
 /.data
 .env
-/public/bundles/
-/var/
-/vendor/
-
 /.idea/
